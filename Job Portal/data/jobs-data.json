@@ -1,0 +1,1934 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "TechCo",
+    "location": "Cityville",
+    "description": "We are looking for a skilled Software Engineer to join our team.",
+    "requirements": [
+      "Bachelor's degree in Computer Science",
+      "Experience with JavaScript and Node.js"
+    ],
+    "responsibilities": [
+      "Develop and maintain software applications",
+      "Collaborate with cross-functional teams"
+    ],
+    "salary": 80000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Web Developer",
+    "company": "WebTech",
+    "location": "TechCity",
+    "description": "Exciting opportunity for a Web Developer to work on innovative projects.",
+    "requirements": [
+      "Bachelor's degree in Computer Science",
+      "Proficient in HTML, CSS, and JavaScript"
+    ],
+    "responsibilities": [
+      "Design and implement web solutions",
+      "Collaborate with UX/UI designers"
+    ],
+    "salary": 75000,
+    "status": "intern",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Data Scientist",
+    "company": "DataCo",
+    "location": "Datatown",
+    "description": "Join our data science team to analyze and extract insights from large datasets.",
+    "requirements": [
+      "Master's or Ph.D. in Data Science or related field",
+      "Experience with machine learning algorithms"
+    ],
+    "responsibilities": [
+      "Develop predictive models",
+      "Analyze and interpret complex data sets"
+    ],
+    "salary": 90000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "VisualArts",
+    "location": "ArtCity",
+    "description": "Creative graphic designer wanted to bring visual concepts to life.",
+    "requirements": [
+      "Bachelor's degree in Graphic Design",
+      "Proficiency in Adobe Creative Suite"
+    ],
+    "responsibilities": [
+      "Create visually appealing graphics",
+      "Collaborate with marketing and creative teams"
+    ],
+    "salary": 70000,
+    "status": "part-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Network Engineer",
+    "company": "NetTech",
+    "location": "Connectville",
+    "description": "Experienced network engineer needed to design and implement scalable network solutions.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "CCNA or equivalent certification"
+    ],
+    "responsibilities": [
+      "Design and implement network infrastructure",
+      "Troubleshoot network issues"
+    ],
+    "salary": 85000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Marketing Specialist",
+    "company": "MarketHub",
+    "location": "PromoCity",
+    "description": "Dynamic marketing specialist to create and implement effective marketing strategies.",
+    "requirements": [
+      "Bachelor's degree in Marketing or related field",
+      "Experience in digital marketing"
+    ],
+    "responsibilities": [
+      "Develop marketing campaigns",
+      "Analyze and report on marketing performance"
+    ],
+    "salary": 72000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Mobile App Developer",
+    "company": "AppTech",
+    "location": "AppVille",
+    "description": "Join our mobile app development team to create innovative and user-friendly applications.",
+    "requirements": [
+      "Bachelor's degree in Computer Science",
+      "Experience with mobile app development (iOS/Android)"
+    ],
+    "responsibilities": [
+      "Develop and maintain mobile applications",
+      "Collaborate with UX/UI designers"
+    ],
+    "salary": 82000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Financial Analyst",
+    "company": "FinanceCorp",
+    "location": "FinanceCity",
+    "description": "Experienced financial analyst to analyze financial data and provide insights for decision-making.",
+    "requirements": [
+      "Bachelor's degree in Finance or related field",
+      "Strong analytical and mathematical skills"
+    ],
+    "responsibilities": [
+      "Conduct financial analysis",
+      "Prepare reports and financial statements"
+    ],
+    "salary": 95000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Quality Assurance Engineer",
+    "company": "QualityTech",
+    "location": "QualityVille",
+    "description": "Detail-oriented QA engineer to ensure the quality of software products.",
+    "requirements": [
+      "Bachelor's degree in Computer Science",
+      "Experience in software testing"
+    ],
+    "responsibilities": [
+      "Create and execute test cases",
+      "Collaborate with development teams"
+    ],
+    "salary": 78000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "UX/UI Designer",
+    "company": "DesignStudio",
+    "location": "CreativityVille",
+    "description": "Join our design team and create user-centric and visually appealing interfaces.",
+    "requirements": [
+      "Bachelor's degree in Design",
+      "Experience with design tools like Sketch or Figma"
+    ],
+    "responsibilities": [
+      "Create wireframes and prototypes",
+      "Collaborate with development teams"
+    ],
+    "salary": 90000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "AI Engineer",
+    "company": "AI Tech",
+    "location": "AICity",
+    "description": "Join our AI team to develop cutting-edge artificial intelligence solutions.",
+    "requirements": [
+      "Master's or Ph.D. in Computer Science or related field",
+      "Experience with machine learning frameworks"
+    ],
+    "responsibilities": [
+      "Develop and implement AI algorithms",
+      "Collaborate with data scientists and engineers"
+    ],
+    "salary": 95000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "company": "SecureTech",
+    "location": "SecureCity",
+    "description": "Experienced cybersecurity analyst to protect our systems from cyber threats.",
+    "requirements": [
+      "Bachelor's degree in Cybersecurity or related field",
+      "Certifications such as CISSP or CompTIA Security+"
+    ],
+    "responsibilities": [
+      "Monitor and analyze security incidents",
+      "Implement and maintain security measures"
+    ],
+    "salary": 88000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "DevOps Solutions",
+    "location": "DevOpsVille",
+    "description": "Join our DevOps team to streamline development and deployment processes.",
+    "requirements": [
+      "Experience in DevOps practices",
+      "Familiarity with containerization (Docker, Kubernetes)"
+    ],
+    "responsibilities": [
+      "Automate and improve development processes",
+      "Collaborate with development and operations teams"
+    ],
+    "salary": 86000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Customer Support Specialist",
+    "company": "SupportHub",
+    "location": "HelpDeskCity",
+    "description": "Dedicated customer support specialist to assist and resolve customer inquiries.",
+    "requirements": [
+      "Excellent communication skills",
+      "Experience in customer support"
+    ],
+    "responsibilities": [
+      "Respond to customer inquiries",
+      "Provide timely and effective support"
+    ],
+    "salary": 65000,
+    "status": "part-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Project Manager",
+    "company": "ProjectMasters",
+    "location": "ProjectCity",
+    "description": "Experienced project manager to lead and coordinate project teams.",
+    "requirements": [
+      "Bachelor's degree in Project Management or related field",
+      "Certification in Project Management (PMP)"
+    ],
+    "responsibilities": [
+      "Plan and execute projects",
+      "Coordinate project teams and resources"
+    ],
+    "salary": 92000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Sales Representative",
+    "company": "SalesPros",
+    "location": "SalesCity",
+    "description": "Dynamic sales representative to promote and sell our products or services.",
+    "requirements": [
+      "Proven experience in sales",
+      "Excellent communication and negotiation skills"
+    ],
+    "responsibilities": [
+      "Identify and pursue sales opportunities",
+      "Meet and exceed sales targets"
+    ],
+    "salary": 75000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Biomedical Engineer",
+    "company": "MedTech Innovations",
+    "location": "MedCity",
+    "description": "Contribute to the development of innovative medical devices as a biomedical engineer.",
+    "requirements": [
+      "Bachelor's degree in Biomedical Engineering",
+      "Experience in medical device design"
+    ],
+    "responsibilities": [
+      "Design and test medical devices",
+      "Collaborate with healthcare professionals"
+    ],
+    "salary": 89000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Environmental Scientist",
+    "company": "EcoSolutions",
+    "location": "EcoCity",
+    "description": "Passionate environmental scientist to conduct research and contribute to environmental solutions.",
+    "requirements": [
+      "Master's or Ph.D. in Environmental Science",
+      "Experience in environmental research"
+    ],
+    "responsibilities": [
+      "Conduct environmental impact assessments",
+      "Develop and implement environmental policies"
+    ],
+    "salary": 91000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Legal Counsel",
+    "company": "LegalExperts",
+    "location": "LawCity",
+    "description": "Experienced legal counsel to provide legal advice and support to the organization.",
+    "requirements": ["Juris Doctor (JD) degree", "Licensed to practice law"],
+    "responsibilities": [
+      "Provide legal advice on business matters",
+      "Draft and review legal documents"
+    ],
+    "salary": 98000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Human Resources Specialist",
+    "company": "HRMasters",
+    "location": "HRCity",
+    "description": "Human resources specialist to oversee HR functions and support organizational development.",
+    "requirements": [
+      "Bachelor's degree in Human Resources or related field",
+      "Experience in HR management"
+    ],
+    "responsibilities": [
+      "Recruitment and onboarding",
+      "Employee relations and HR policies"
+    ],
+    "salary": 72000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Software Engineer",
+    "company": "TechCo",
+    "location": "Cityville",
+    "description": "We are looking for a skilled Software Engineer to join our team.",
+    "requirements": [
+      "Bachelor's degree in Computer Science",
+      "Experience with JavaScript and Node.js"
+    ],
+    "responsibilities": [
+      "Develop and maintain software applications",
+      "Collaborate with cross-functional teams"
+    ],
+    "salary": 80000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Web Developer",
+    "company": "WebTech",
+    "location": "TechCity",
+    "description": "Exciting opportunity for a Web Developer to work on innovative projects.",
+    "requirements": [
+      "Bachelor's degree in Computer Science",
+      "Proficient in HTML, CSS, and JavaScript"
+    ],
+    "responsibilities": [
+      "Design and implement web solutions",
+      "Collaborate with UX/UI designers"
+    ],
+    "salary": 75000,
+    "status": "intern",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Data Scientist",
+    "company": "DataCo",
+    "location": "Datatown",
+    "description": "Join our data science team to analyze and extract insights from large datasets.",
+    "requirements": [
+      "Master's or Ph.D. in Data Science or related field",
+      "Experience with machine learning algorithms"
+    ],
+    "responsibilities": [
+      "Develop predictive models",
+      "Analyze and interpret complex data sets"
+    ],
+    "salary": 90000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "VisualArts",
+    "location": "ArtCity",
+    "description": "Creative graphic designer wanted to bring visual concepts to life.",
+    "requirements": [
+      "Bachelor's degree in Graphic Design",
+      "Proficiency in Adobe Creative Suite"
+    ],
+    "responsibilities": [
+      "Create visually appealing graphics",
+      "Collaborate with marketing and creative teams"
+    ],
+    "salary": 70000,
+    "status": "part-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Network Engineer",
+    "company": "NetTech",
+    "location": "Connectville",
+    "description": "Experienced network engineer needed to design and implement scalable network solutions.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "CCNA or equivalent certification"
+    ],
+    "responsibilities": [
+      "Design and implement network infrastructure",
+      "Troubleshoot network issues"
+    ],
+    "salary": 85000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Marketing Specialist",
+    "company": "MarketHub",
+    "location": "PromoCity",
+    "description": "Dynamic marketing specialist to create and implement effective marketing strategies.",
+    "requirements": [
+      "Bachelor's degree in Marketing or related field",
+      "Experience in digital marketing"
+    ],
+    "responsibilities": [
+      "Develop marketing campaigns",
+      "Analyze and report on marketing performance"
+    ],
+    "salary": 72000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Mobile App Developer",
+    "company": "AppTech",
+    "location": "AppVille",
+    "description": "Join our mobile app development team to create innovative and user-friendly applications.",
+    "requirements": [
+      "Bachelor's degree in Computer Science",
+      "Experience with mobile app development (iOS/Android)"
+    ],
+    "responsibilities": [
+      "Develop and maintain mobile applications",
+      "Collaborate with UX/UI designers"
+    ],
+    "salary": 82000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Financial Analyst",
+    "company": "FinanceCorp",
+    "location": "FinanceCity",
+    "description": "Experienced financial analyst to analyze financial data and provide insights for decision-making.",
+    "requirements": [
+      "Bachelor's degree in Finance or related field",
+      "Strong analytical and mathematical skills"
+    ],
+    "responsibilities": [
+      "Conduct financial analysis",
+      "Prepare reports and financial statements"
+    ],
+    "salary": 95000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Quality Assurance Engineer",
+    "company": "QualityTech",
+    "location": "QualityVille",
+    "description": "Detail-oriented QA engineer to ensure the quality of software products.",
+    "requirements": [
+      "Bachelor's degree in Computer Science",
+      "Experience in software testing"
+    ],
+    "responsibilities": [
+      "Create and execute test cases",
+      "Collaborate with development teams"
+    ],
+    "salary": 78000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "AI Engineer",
+    "company": "AI Tech",
+    "location": "AICity",
+    "description": "Join our AI team to develop cutting-edge artificial intelligence solutions.",
+    "requirements": [
+      "Master's or Ph.D. in Computer Science or related field",
+      "Experience with machine learning frameworks"
+    ],
+    "responsibilities": [
+      "Develop and implement AI algorithms",
+      "Collaborate with data scientists and engineers"
+    ],
+    "salary": 95000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "company": "SecureTech",
+    "location": "SecureCity",
+    "description": "Experienced cybersecurity analyst to protect our systems from cyber threats.",
+    "requirements": [
+      "Bachelor's degree in Cybersecurity or related field",
+      "Certifications such as CISSP or CompTIA Security+"
+    ],
+    "responsibilities": [
+      "Monitor and analyze security incidents",
+      "Implement and maintain security measures"
+    ],
+    "salary": 88000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "DevOps Solutions",
+    "location": "DevOpsVille",
+    "description": "Join our DevOps team to streamline development and deployment processes.",
+    "requirements": [
+      "Experience in DevOps practices",
+      "Familiarity with containerization (Docker, Kubernetes)"
+    ],
+    "responsibilities": [
+      "Automate and improve development processes",
+      "Collaborate with development and operations teams"
+    ],
+    "salary": 86000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Customer Support Specialist",
+    "company": "SupportHub",
+    "location": "HelpDeskCity",
+    "description": "Dedicated customer support specialist to assist and resolve customer inquiries.",
+    "requirements": [
+      "Excellent communication skills",
+      "Experience in customer support"
+    ],
+    "responsibilities": [
+      "Respond to customer inquiries",
+      "Provide timely and effective support"
+    ],
+    "salary": 65000,
+    "status": "part-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Project Manager",
+    "company": "ProjectMasters",
+    "location": "ProjectCity",
+    "description": "Experienced project manager to lead and coordinate project teams.",
+    "requirements": [
+      "Bachelor's degree in Project Management or related field",
+      "Certification in Project Management (PMP)"
+    ],
+    "responsibilities": [
+      "Plan and execute projects",
+      "Coordinate project teams and resources"
+    ],
+    "salary": 92000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Sales Representative",
+    "company": "SalesPros",
+    "location": "SalesCity",
+    "description": "Dynamic sales representative to promote and sell our products or services.",
+    "requirements": [
+      "Proven experience in sales",
+      "Excellent communication and negotiation skills"
+    ],
+    "responsibilities": [
+      "Identify and pursue sales opportunities",
+      "Meet and exceed sales targets"
+    ],
+    "salary": 75000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Biomedical Engineer",
+    "company": "MedTech Innovations",
+    "location": "MedCity",
+    "description": "Contribute to the development of innovative medical devices as a biomedical engineer.",
+    "requirements": [
+      "Bachelor's degree in Biomedical Engineering",
+      "Experience in medical device design"
+    ],
+    "responsibilities": [
+      "Design and test medical devices",
+      "Collaborate with healthcare professionals"
+    ],
+    "salary": 89000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Environmental Scientist",
+    "company": "EcoSolutions",
+    "location": "EcoCity",
+    "description": "Passionate environmental scientist to conduct research and contribute to environmental solutions.",
+    "requirements": [
+      "Master's or Ph.D. in Environmental Science",
+      "Experience in environmental research"
+    ],
+    "responsibilities": [
+      "Conduct environmental impact assessments",
+      "Develop and implement environmental policies"
+    ],
+    "salary": 91000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Legal Counsel",
+    "company": "LegalExperts",
+    "location": "LawCity",
+    "description": "Experienced legal counsel to provide legal advice and support to the organization.",
+    "requirements": ["Juris Doctor (JD) degree", "Licensed to practice law"],
+    "responsibilities": [
+      "Provide legal advice on business matters",
+      "Draft and review legal documents"
+    ],
+    "salary": 98000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Human Resources Specialist",
+    "company": "HRMasters",
+    "location": "HRCity",
+    "description": "Human resources specialist to oversee HR functions and support organizational development.",
+    "requirements": [
+      "Bachelor's degree in Human Resources or related field",
+      "Experience in HR management"
+    ],
+    "responsibilities": [
+      "Recruitment and onboarding",
+      "Employee relations and HR policies"
+    ],
+    "salary": 72000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Business Analyst",
+    "company": "BizTech Solutions",
+    "location": "BizCity",
+    "description": "Analytical business analyst to evaluate and improve business processes.",
+    "requirements": [
+      "Bachelor's degree in Business or related field",
+      "Experience in business analysis"
+    ],
+    "responsibilities": [
+      "Gather and analyze business requirements",
+      "Identify areas for process improvement"
+    ],
+    "salary": 78000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Public Relations Specialist",
+    "company": "PRPro",
+    "location": "PRCity",
+    "description": "Dynamic public relations specialist to enhance the company's public image.",
+    "requirements": [
+      "Bachelor's degree in Public Relations or related field",
+      "Excellent communication and media relations skills"
+    ],
+    "responsibilities": [
+      "Develop and implement PR strategies",
+      "Manage media inquiries and relations"
+    ],
+    "salary": 74000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "IT Support Specialist",
+    "company": "ITSupport Solutions",
+    "location": "ITCity",
+    "description": "Skilled IT support specialist to provide technical assistance to end-users.",
+    "requirements": [
+      "Associate degree in IT or related field",
+      "Experience in IT support"
+    ],
+    "responsibilities": [
+      "Troubleshoot and resolve IT issues",
+      "Provide technical support to end-users"
+    ],
+    "salary": 68000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "E-commerce Analyst",
+    "company": "EcommerceInsights",
+    "location": "EcommerceCity",
+    "description": "Experienced e-commerce analyst to analyze market trends and optimize online sales.",
+    "requirements": [
+      "Bachelor's degree in Business or related field",
+      "Experience in e-commerce analysis"
+    ],
+    "responsibilities": [
+      "Analyze market trends and consumer behavior",
+      "Optimize online sales strategies"
+    ],
+    "salary": 82000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "UX/UI Designer",
+    "company": "DesignGenius",
+    "location": "DesignCity",
+    "description": "Creative UX/UI designer to create engaging and user-friendly digital experiences.",
+    "requirements": [
+      "Bachelor's degree in Design or related field",
+      "Proficiency in design tools (Sketch, Figma)"
+    ],
+    "responsibilities": [
+      "Design intuitive and visually appealing user interfaces",
+      "Collaborate with cross-functional teams"
+    ],
+    "salary": 78000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Social Media Manager",
+    "company": "SocialHub",
+    "location": "SocialCity",
+    "description": "Experienced social media manager to develop and implement social media strategies.",
+    "requirements": [
+      "Bachelor's degree in Marketing or related field",
+      "Experience in social media management"
+    ],
+    "responsibilities": [
+      "Develop and execute social media campaigns",
+      "Monitor social media trends"
+    ],
+    "salary": 76000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Mobile App Tester",
+    "company": "AppQuality",
+    "location": "TestingVille",
+    "description": "Detail-oriented mobile app tester to ensure the quality and functionality of mobile applications.",
+    "requirements": [
+      "Experience in mobile app testing",
+      "Attention to detail and strong analytical skills"
+    ],
+    "responsibilities": [
+      "Conduct thorough testing of mobile applications",
+      "Identify and report bugs and issues"
+    ],
+    "salary": 70000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Healthcare Administrator",
+    "company": "HealthCarePro",
+    "location": "HealthAdminCity",
+    "description": "Experienced healthcare administrator to oversee administrative operations in a healthcare setting.",
+    "requirements": [
+      "Bachelor's degree in Healthcare Administration or related field",
+      "Experience in healthcare administration"
+    ],
+    "responsibilities": [
+      "Manage healthcare administrative processes",
+      "Ensure compliance with healthcare regulations"
+    ],
+    "salary": 90000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "FrontendTech",
+    "location": "FrontendCity",
+    "description": "Talented frontend developer to create responsive and visually appealing web interfaces.",
+    "requirements": [
+      "Bachelor's degree in Computer Science",
+      "Proficient in HTML, CSS, and JavaScript frameworks"
+    ],
+    "responsibilities": [
+      "Develop and implement frontend solutions",
+      "Collaborate with backend developers and designers"
+    ],
+    "salary": 80000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Supply Chain Analyst",
+    "company": "SupplyChainMasters",
+    "location": "SupplyChainCity",
+    "description": "Analytical supply chain analyst to optimize and streamline supply chain operations.",
+    "requirements": [
+      "Bachelor's degree in Supply Chain Management or related field",
+      "Experience in supply chain analysis"
+    ],
+    "responsibilities": [
+      "Analyze supply chain processes",
+      "Identify areas for optimization and cost reduction"
+    ],
+    "salary": 85000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Cloud Solutions Architect",
+    "company": "CloudTech",
+    "location": "CloudCity",
+    "description": "Experienced cloud solutions architect to design and implement scalable cloud infrastructure.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience in cloud architecture"
+    ],
+    "responsibilities": [
+      "Design and implement scalable cloud solutions",
+      "Collaborate with development and operations teams"
+    ],
+    "salary": 92000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Educational Content Creator",
+    "company": "EduGenius",
+    "location": "EduCity",
+    "description": "Creative educational content creator to develop engaging and informative learning materials.",
+    "requirements": [
+      "Bachelor's degree in Education or related field",
+      "Experience in content creation for education"
+    ],
+    "responsibilities": [
+      "Create educational content for various subjects",
+      "Adapt content for different learning platforms"
+    ],
+    "salary": 74000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Blockchain Developer",
+    "company": "BlockchainTech",
+    "location": "BlockchainCity",
+    "description": "Skilled blockchain developer to contribute to the development of blockchain-based solutions.",
+    "requirements": [
+      "Experience in blockchain development",
+      "Knowledge of smart contracts and decentralized applications"
+    ],
+    "responsibilities": [
+      "Develop and implement blockchain solutions",
+      "Collaborate with blockchain development teams"
+    ],
+    "salary": 88000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "UI/UX Researcher",
+    "company": "ResearchInnovate",
+    "location": "ResearchCity",
+    "description": "Passionate UI/UX researcher to conduct user research and enhance digital experiences.",
+    "requirements": [
+      "Bachelor's degree in Human-Computer Interaction or related field",
+      "Experience in UI/UX research"
+    ],
+    "responsibilities": [
+      "Conduct user interviews and usability testing",
+      "Analyze and report on user research findings"
+    ],
+    "salary": 78000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Digital Marketing Manager",
+    "company": "DigitalMasters",
+    "location": "DigitalCity",
+    "description": "Experienced digital marketing manager to lead and execute digital marketing strategies.",
+    "requirements": [
+      "Bachelor's degree in Marketing or related field",
+      "Experience in digital marketing management"
+    ],
+    "responsibilities": [
+      "Develop and implement digital marketing campaigns",
+      "Analyze and optimize digital marketing performance"
+    ],
+    "salary": 85000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "AI Ethics Researcher",
+    "company": "AIEthicsLab",
+    "location": "AIEthicsCity",
+    "description": "Ethics researcher specializing in AI to address ethical concerns in artificial intelligence.",
+    "requirements": [
+      "Master's or Ph.D. in Ethics or related field",
+      "Experience in AI ethics research"
+    ],
+    "responsibilities": [
+      "Explore ethical implications of AI technologies",
+      "Develop guidelines for responsible AI use"
+    ],
+    "salary": 92000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Data Engineer",
+    "company": "DataTech Solutions",
+    "location": "DataCity",
+    "description": "Skilled data engineer to design and implement data processing systems and pipelines.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience in data engineering"
+    ],
+    "responsibilities": [
+      "Design and implement data processing systems",
+      "Collaborate with data scientists and analysts"
+    ],
+    "salary": 90000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Remote Sensing Specialist",
+    "company": "GeoTech Insights",
+    "location": "GeoCity",
+    "description": "Remote sensing specialist to analyze geospatial data and contribute to environmental monitoring.",
+    "requirements": [
+      "Master's or Ph.D. in Remote Sensing or related field",
+      "Experience in remote sensing analysis"
+    ],
+    "responsibilities": [
+      "Analyze and interpret geospatial data",
+      "Contribute to environmental monitoring projects"
+    ],
+    "salary": 88000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Cloud Security Engineer",
+    "company": "SecureCloud",
+    "location": "SecureCloudCity",
+    "description": "Experienced cloud security engineer to implement and maintain secure cloud environments.",
+    "requirements": [
+      "Bachelor's degree in Cybersecurity or related field",
+      "Experience in cloud security"
+    ],
+    "responsibilities": [
+      "Implement and monitor cloud security measures",
+      "Respond to security incidents"
+    ],
+    "salary": 96000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Product Manager",
+    "company": "ProductMinds",
+    "location": "ProductCity",
+    "description": "Experienced product manager to oversee the development and launch of innovative products.",
+    "requirements": [
+      "Bachelor's degree in Business or related field",
+      "Experience in product management"
+    ],
+    "responsibilities": [
+      "Define product strategy and roadmap",
+      "Collaborate with cross-functional teams"
+    ],
+    "salary": 92000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "AI Product Manager",
+    "company": "AIPM Tech",
+    "location": "AIPMCity",
+    "description": "Product manager specializing in AI to lead the development of AI-powered products.",
+    "requirements": [
+      "Bachelor's degree in Business or related field",
+      "Experience in AI product management"
+    ],
+    "responsibilities": [
+      "Define AI product strategy and features",
+      "Collaborate with AI development teams"
+    ],
+    "salary": 95000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Legal Researcher",
+    "company": "LegalResearchInsights",
+    "location": "LegalResearchCity",
+    "description": "Legal researcher to conduct legal research and provide support to legal teams.",
+    "requirements": [
+      "Juris Doctor (JD) degree",
+      "Experience in legal research"
+    ],
+    "responsibilities": [
+      "Conduct legal research and analysis",
+      "Draft legal documents and opinions"
+    ],
+    "salary": 88000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Technical Writer",
+    "company": "TechDocs Solutions",
+    "location": "TechDocsCity",
+    "description": "Experienced technical writer to create clear and comprehensive documentation for technical products.",
+    "requirements": [
+      "Bachelor's degree in Technical Writing or related field",
+      "Experience in technical writing"
+    ],
+    "responsibilities": [
+      "Create user manuals and technical documentation",
+      "Collaborate with product development teams"
+    ],
+    "salary": 76000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Data Analyst",
+    "company": "DataInsights",
+    "location": "DataCity",
+    "description": "Analytical data analyst to analyze and interpret complex datasets for business insights.",
+    "requirements": [
+      "Bachelor's degree in Statistics or related field",
+      "Experience in data analysis"
+    ],
+    "responsibilities": [
+      "Analyze and interpret data sets",
+      "Prepare reports and visualizations"
+    ],
+    "salary": 78000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "IT Project Manager",
+    "company": "ITProjects",
+    "location": "ITProjectCity",
+    "description": "Experienced IT project manager to lead and manage IT projects from initiation to completion.",
+    "requirements": [
+      "Bachelor's degree in IT or related field",
+      "Certification in Project Management (PMP)"
+    ],
+    "responsibilities": [
+      "Plan and execute IT projects",
+      "Coordinate project teams and resources"
+    ],
+    "salary": 92000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "User Support Specialist",
+    "company": "UserSupportPro",
+    "location": "UserSupportCity",
+    "description": "Dedicated user support specialist to assist and resolve user inquiries and technical issues.",
+    "requirements": [
+      "Excellent communication skills",
+      "Experience in user support"
+    ],
+    "responsibilities": [
+      "Respond to user inquiries",
+      "Provide technical support and troubleshooting"
+    ],
+    "salary": 68000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Environmental Engineer",
+    "company": "EcoEngineering",
+    "location": "EcoEngineeringCity",
+    "description": "Environmental engineer to design and implement solutions for environmental challenges.",
+    "requirements": [
+      "Bachelor's degree in Environmental Engineering",
+      "Experience in environmental engineering"
+    ],
+    "responsibilities": [
+      "Design and implement environmental solutions",
+      "Conduct environmental impact assessments"
+    ],
+    "salary": 89000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "FullStackTech",
+    "location": "FullStackCity",
+    "description": "Full stack developer to work on both front-end and back-end development of web applications.",
+    "requirements": [
+      "Bachelor's degree in Computer Science",
+      "Experience in full stack development"
+    ],
+    "responsibilities": [
+      "Develop and maintain web applications",
+      "Collaborate with cross-functional teams"
+    ],
+    "salary": 85000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Customer Success Manager",
+    "company": "SuccessHub",
+    "location": "SuccessCity",
+    "description": "Experienced customer success manager to build and maintain strong relationships with clients.",
+    "requirements": [
+      "Bachelor's degree in Business or related field",
+      "Experience in customer success management"
+    ],
+    "responsibilities": [
+      "Build and maintain client relationships",
+      "Ensure customer satisfaction and retention"
+    ],
+    "salary": 80000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Health and Safety Officer",
+    "company": "SafetyFirst",
+    "location": "SafetyCity",
+    "description": "Health and safety officer to implement and oversee safety protocols in the workplace.",
+    "requirements": [
+      "Bachelor's degree in Occupational Health and Safety",
+      "Certification in Health and Safety"
+    ],
+    "responsibilities": [
+      "Implement and monitor safety protocols",
+      "Conduct safety training"
+    ],
+    "salary": 75000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Mobile App Product Manager",
+    "company": "AppProductMasters",
+    "location": "AppProductCity",
+    "description": "Product manager specializing in mobile apps to lead the development of innovative app products.",
+    "requirements": [
+      "Bachelor's degree in Business or related field",
+      "Experience in mobile app product management"
+    ],
+    "responsibilities": [
+      "Define mobile app product strategy and features",
+      "Collaborate with mobile app development teams"
+    ],
+    "salary": 95000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "IT Security Analyst",
+    "company": "SecureIT Solutions",
+    "location": "SecureITCity",
+    "description": "IT security analyst to monitor and enhance the security of IT systems and networks.",
+    "requirements": [
+      "Bachelor's degree in Cybersecurity or related field",
+      "Experience in IT security"
+    ],
+    "responsibilities": [
+      "Monitor and analyze IT security incidents",
+      "Implement and maintain security measures"
+    ],
+    "salary": 88000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Digital Illustrator",
+    "company": "DigitalArtStudio",
+    "location": "DigitalArtCity",
+    "description": "Creative digital illustrator to create visually stunning digital artwork for various projects.",
+    "requirements": [
+      "Bachelor's degree in Fine Arts or related field",
+      "Experience in digital illustration"
+    ],
+    "responsibilities": [
+      "Create digital illustrations for projects",
+      "Collaborate with design and creative teams"
+    ],
+    "salary": 72000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Network Engineer",
+    "company": "NetworkTech",
+    "location": "NetworkCity",
+    "description": "Experienced network engineer to design, implement, and maintain computer networks.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience in network engineering"
+    ],
+    "responsibilities": [
+      "Design and implement computer networks",
+      "Troubleshoot and resolve network issues"
+    ],
+    "salary": 90000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Content Marketing Specialist",
+    "company": "ContentMasters",
+    "location": "ContentCity",
+    "description": "Creative content marketing specialist to develop and implement content marketing strategies.",
+    "requirements": [
+      "Bachelor's degree in Marketing or related field",
+      "Experience in content marketing"
+    ],
+    "responsibilities": [
+      "Create and implement content marketing campaigns",
+      "Analyze and optimize content performance"
+    ],
+    "salary": 82000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Quality Assurance Tester",
+    "company": "QualityAssureTech",
+    "location": "QualityAssureCity",
+    "description": "Detail-oriented quality assurance tester to ensure the quality and functionality of software applications.",
+    "requirements": [
+      "Experience in quality assurance testing",
+      "Strong attention to detail"
+    ],
+    "responsibilities": [
+      "Conduct thorough testing of software applications",
+      "Identify and report bugs and issues"
+    ],
+    "salary": 70000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Biotechnology Research Scientist",
+    "company": "BioTechInnovate",
+    "location": "BioTechCity",
+    "description": "Research scientist in biotechnology to contribute to innovative biotechnological advancements.",
+    "requirements": [
+      "Ph.D. in Biotechnology or related field",
+      "Experience in biotechnology research"
+    ],
+    "responsibilities": [
+      "Conduct biotechnological research",
+      "Contribute to scientific publications"
+    ],
+    "salary": 92000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "DesignCraft",
+    "location": "DesignCraftCity",
+    "description": "Creative graphic designer to create visually appealing designs for various projects.",
+    "requirements": [
+      "Bachelor's degree in Graphic Design or related field",
+      "Proficiency in design software"
+    ],
+    "responsibilities": [
+      "Create graphic designs for print and digital media",
+      "Collaborate with marketing and creative teams"
+    ],
+    "salary": 78000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Supply Chain Manager",
+    "company": "SupplyChainPro",
+    "location": "SupplyChainCity",
+    "description": "Experienced supply chain manager to oversee and optimize end-to-end supply chain processes.",
+    "requirements": [
+      "Bachelor's degree in Supply Chain Management or related field",
+      "Experience in supply chain management"
+    ],
+    "responsibilities": [
+      "Oversee end-to-end supply chain processes",
+      "Identify areas for optimization and cost reduction"
+    ],
+    "salary": 85000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Social Media Content Creator",
+    "company": "SocialMediaCreatives",
+    "location": "SocialMediaCity",
+    "description": "Creative social media content creator to develop engaging content for various social media platforms.",
+    "requirements": [
+      "Experience in social media content creation",
+      "Excellent creative and storytelling skills"
+    ],
+    "responsibilities": [
+      "Create engaging content for social media platforms",
+      "Collaborate with marketing teams"
+    ],
+    "salary": 76000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "MLTech Innovations",
+    "location": "MLTechCity",
+    "description": "Skilled machine learning engineer to develop and implement machine learning solutions.",
+    "requirements": [
+      "Master's or Ph.D. in Computer Science or related field",
+      "Experience in machine learning"
+    ],
+    "responsibilities": [
+      "Develop and implement machine learning solutions",
+      "Collaborate with data scientists and engineers"
+    ],
+    "salary": 95000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Event Planner",
+    "company": "EventPlanners",
+    "location": "EventCity",
+    "description": "Creative event planner to organize and execute memorable events for clients.",
+    "requirements": [
+      "Bachelor's degree in Event Management or related field",
+      "Experience in event planning"
+    ],
+    "responsibilities": [
+      "Plan and coordinate events from conception to completion",
+      "Collaborate with vendors and clients"
+    ],
+    "salary": 80000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "BIAnalytics",
+    "location": "BICity",
+    "description": "Analytical business intelligence analyst to gather and analyze business data for strategic insights.",
+    "requirements": [
+      "Bachelor's degree in Business or related field",
+      "Experience in business intelligence analysis"
+    ],
+    "responsibilities": [
+      "Gather and analyze business data",
+      "Generate reports and dashboards for strategic decision-making"
+    ],
+    "salary": 88000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "company": "CyberSecureTech",
+    "location": "CyberCity",
+    "description": "Experienced cybersecurity analyst to monitor and enhance the security of information systems.",
+    "requirements": [
+      "Bachelor's degree in Cybersecurity or related field",
+      "Experience in cybersecurity analysis"
+    ],
+    "responsibilities": [
+      "Monitor and analyze security incidents",
+      "Implement and maintain cybersecurity measures"
+    ],
+    "salary": 89000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Mobile App Developer",
+    "company": "AppDevMasters",
+    "location": "AppDevCity",
+    "description": "Skilled mobile app developer to design and develop innovative mobile applications.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience in mobile app development"
+    ],
+    "responsibilities": [
+      "Design and develop mobile applications",
+      "Collaborate with cross-functional teams"
+    ],
+    "salary": 87000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Sales Operations Manager",
+    "company": "SalesOpsPro",
+    "location": "SalesOpsCity",
+    "description": "Experienced sales operations manager to optimize sales processes and support sales teams.",
+    "requirements": [
+      "Bachelor's degree in Business or related field",
+      "Experience in sales operations management"
+    ],
+    "responsibilities": [
+      "Optimize and streamline sales processes",
+      "Provide support to sales teams"
+    ],
+    "salary": 92000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "IT Support Specialist",
+    "company": "ITSupportPro",
+    "location": "ITSupportCity",
+    "description": "Dedicated IT support specialist to provide technical support and troubleshooting to end-users.",
+    "requirements": [
+      "Experience in IT support",
+      "Excellent problem-solving skills"
+    ],
+    "responsibilities": [
+      "Provide technical support to end-users",
+      "Troubleshoot and resolve IT issues"
+    ],
+    "salary": 70000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Bioinformatics Scientist",
+    "company": "BioInfoTech",
+    "location": "BioInfoCity",
+    "description": "Scientist specializing in bioinformatics to analyze biological data and contribute to scientific research.",
+    "requirements": [
+      "Ph.D. in Bioinformatics or related field",
+      "Experience in bioinformatics analysis"
+    ],
+    "responsibilities": [
+      "Analyze biological data using bioinformatics tools",
+      "Contribute to scientific research projects"
+    ],
+    "salary": 95000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "DevOpsInnovate",
+    "location": "DevOpsCity",
+    "description": "Skilled DevOps engineer to automate and streamline development and IT operations processes.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience in DevOps practices"
+    ],
+    "responsibilities": [
+      "Automate and streamline development and IT operations",
+      "Collaborate with development and IT teams"
+    ],
+    "salary": 91000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Human Resources Manager",
+    "company": "HRMasters",
+    "location": "HRCity",
+    "description": "Experienced human resources manager to oversee HR functions and support organizational growth.",
+    "requirements": [
+      "Bachelor's degree in Human Resources or related field",
+      "Experience in HR management"
+    ],
+    "responsibilities": [
+      "Oversee HR functions",
+      "Support organizational growth and development"
+    ],
+    "salary": 88000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Augmented Reality Developer",
+    "company": "ARInnovate",
+    "location": "ARCity",
+    "description": "Creative augmented reality developer to design and develop AR applications and experiences.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience in augmented reality development"
+    ],
+    "responsibilities": [
+      "Design and develop augmented reality applications",
+      "Collaborate with design and UX teams"
+    ],
+    "salary": 93000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Digital Marketing Analyst",
+    "company": "DigitalMarketingInsights",
+    "location": "DigitalMarketingCity",
+    "description": "Analytical digital marketing analyst to gather and analyze data for digital marketing strategies.",
+    "requirements": [
+      "Bachelor's degree in Marketing or related field",
+      "Experience in digital marketing analysis"
+    ],
+    "responsibilities": [
+      "Gather and analyze digital marketing data",
+      "Generate reports for digital marketing strategies"
+    ],
+    "salary": 85000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "IT Business Analyst",
+    "company": "ITBusinessInsights",
+    "location": "ITBusinessCity",
+    "description": "Experienced IT business analyst to analyze and optimize IT processes for business efficiency.",
+    "requirements": [
+      "Bachelor's degree in IT or related field",
+      "Experience in IT business analysis"
+    ],
+    "responsibilities": [
+      "Analyze and optimize IT processes",
+      "Collaborate with business and IT teams"
+    ],
+    "salary": 89000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Cloud Solutions Architect",
+    "company": "CloudArchitectMasters",
+    "location": "CloudCity",
+    "description": "Experienced cloud solutions architect to design and implement scalable and secure cloud solutions.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience in cloud architecture"
+    ],
+    "responsibilities": [
+      "Design and implement scalable and secure cloud solutions",
+      "Collaborate with development and operations teams"
+    ],
+    "salary": 96000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Technical Support Engineer",
+    "company": "TechSupportPro",
+    "location": "TechSupportCity",
+    "description": "Dedicated technical support engineer to provide assistance and resolve technical issues for end-users.",
+    "requirements": [
+      "Experience in technical support",
+      "Strong problem-solving and communication skills"
+    ],
+    "responsibilities": [
+      "Provide technical support to end-users",
+      "Troubleshoot and resolve technical issues"
+    ],
+    "salary": 72000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Blockchain Developer",
+    "company": "BlockchainTech",
+    "location": "BlockchainCity",
+    "description": "Skilled blockchain developer to design and develop secure and decentralized blockchain applications.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience in blockchain development"
+    ],
+    "responsibilities": [
+      "Design and develop secure and decentralized blockchain applications",
+      "Collaborate with blockchain development teams"
+    ],
+    "salary": 92000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "UX/UI Designer",
+    "company": "UXUIDesignMasters",
+    "location": "UXUICity",
+    "description": "Creative UX/UI designer to create intuitive and visually appealing user interfaces for digital products.",
+    "requirements": [
+      "Bachelor's degree in Design or related field",
+      "Experience in UX/UI design"
+    ],
+    "responsibilities": [
+      "Create intuitive and visually appealing user interfaces",
+      "Collaborate with development and product teams"
+    ],
+    "salary": 85000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Data Scientist",
+    "company": "DataScienceInnovate",
+    "location": "DataScienceCity",
+    "description": "Experienced data scientist to analyze and interpret complex datasets for actionable insights.",
+    "requirements": [
+      "Master's or Ph.D. in Data Science or related field",
+      "Experience in data science"
+    ],
+    "responsibilities": [
+      "Analyze and interpret complex datasets",
+      "Develop predictive models and algorithms"
+    ],
+    "salary": 94000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Social Media Manager",
+    "company": "SocialMediaMasters",
+    "location": "SocialMediaCity",
+    "description": "Experienced social media manager to oversee and implement social media strategies for brands.",
+    "requirements": [
+      "Bachelor's degree in Marketing or related field",
+      "Experience in social media management"
+    ],
+    "responsibilities": [
+      "Develop and implement social media strategies",
+      "Analyze and optimize social media performance"
+    ],
+    "salary": 88000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "iOS App Developer",
+    "company": "iOSDevMasters",
+    "location": "iOSDevCity",
+    "description": "Skilled iOS app developer to design and develop innovative applications for iOS devices.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience in iOS app development"
+    ],
+    "responsibilities": [
+      "Design and develop iOS applications",
+      "Collaborate with cross-functional teams"
+    ],
+    "salary": 93000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "E-commerce Marketing Specialist",
+    "company": "EcommMarketingPro",
+    "location": "EcommMarketingCity",
+    "description": "Creative e-commerce marketing specialist to develop and implement marketing strategies for online businesses.",
+    "requirements": [
+      "Bachelor's degree in Marketing or related field",
+      "Experience in e-commerce marketing"
+    ],
+    "responsibilities": [
+      "Develop and implement e-commerce marketing strategies",
+      "Analyze and optimize marketing performance"
+    ],
+    "salary": 86000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "Software Quality Assurance Engineer",
+    "company": "SoftwareQAPro",
+    "location": "SoftwareQACity",
+    "description": "Detail-oriented software quality assurance engineer to ensure the quality of software applications.",
+    "requirements": [
+      "Experience in software quality assurance",
+      "Strong attention to detail"
+    ],
+    "responsibilities": [
+      "Conduct thorough testing of software applications",
+      "Identify and report bugs and issues"
+    ],
+    "salary": 78000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  },
+  {
+    "title": "IT Auditor",
+    "company": "ITAuditMasters",
+    "location": "ITAuditCity",
+    "description": "Experienced IT auditor to assess and ensure the security and efficiency of IT systems and processes.",
+    "requirements": [
+      "Bachelor's degree in IT or related field",
+      "Certification in IT auditing"
+    ],
+    "responsibilities": [
+      "Assess the security and efficiency of IT systems and processes",
+      "Conduct IT audits"
+    ],
+    "salary": 90000,
+    "status": "full-time",
+    "postedBy": {
+      "$oid": "6598e2f3235b58db13595253"
+    }
+  }
+]
